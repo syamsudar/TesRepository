@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'Add New edited from branch Sudar.';
+            echo 'Add New edited from branch Sudar.  ';
         ?>
     </body>
 </html>
